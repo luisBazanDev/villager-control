@@ -1,0 +1,8 @@
+enabled: true
+
+# The enabled system cancels these events
+events:
+  villager-spawn: true
+  trade-inventory: true
+  player-trade: true
+  wandering-trader-spawn: true

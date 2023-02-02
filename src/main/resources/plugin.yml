@@ -1,0 +1,9 @@
+name: VillagerRemove
+version: '${project.version}'
+main: pe.bazan.luis.plugins.villagercontrol.VillagerControl
+api-version: 1.19
+author: LuisBazán
+commands:
+  villager-control:
+    aliases: [ vcontrol ]
+    permission: villagercontrol.commands
