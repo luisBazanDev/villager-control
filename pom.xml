@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>pe.bazan.luis.plugins</groupId>
-  <artifactId>VillagerRemove</artifactId>
+  <artifactId>VillagerControl</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
 
-  <name>VillagerRemove</name>
+  <name>VillagerControl</name>
 
   <properties>
     <java.version>1.8</java.version>
